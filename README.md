@@ -25,5 +25,5 @@ print(data.clean())
 
 You can view the documentation and more samples on pypi.org/project/cleantweet/
 
-# ![SWEET](https://sweets.laresamdeola.repl.co)
+# [SWEET](https://sweets.laresamdeola.repl.co)
 This is a web application that checks if a User's Tweets has suicidal tendencies. You can test the application here: https://sweets/laresamdeola.repl.co
