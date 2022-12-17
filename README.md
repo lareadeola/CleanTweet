@@ -23,6 +23,15 @@ data = CleanTweet('sample_text.txt')
 #### Call the clean method
 print(data.clean())
 
+#### show_special_characters()
+This method shows the special characters contained in the cleantweet object in a list. From here
+you can view the amount of special characters, loop through the list to display them. etc
+
+e.g
+
+data = CleanTweet("text.txt")
+data.show_special_characters()
+
 You can view the documentation and more samples on https://pypi.org/project/cleantweet/
 
 # [SWEET](https://sweets.laresamdeola.repl.co)
