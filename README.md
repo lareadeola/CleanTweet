@@ -11,25 +11,24 @@ pip install cleantweet
 How to clean your Twitter Object:
 Example 1: If the text file containing the Twitter JSON Data is in the same directory as project files.
 
-!pip install cleantweet
-
-from cleantweet import CleanTweet
-import nltk
+!pip install cleantweet <br/>
+from cleantweet import CleanTweet<br />
+import nltk<br/>
 nltk.download('punkt')
 
 #### Instantiate the CleanTwitter Object
 data = CleanTweet('sample_text.txt')
-
+<br />
 #### Call the clean method
 print(data.clean())
-
+<br />
 #### show_special_characters()
 This method shows the special characters contained in the cleantweet object in a list. From here
 you can view the amount of special characters, loop through the list to display them. etc
 
 e.g
 
-data = CleanTweet("text.txt")
+data = CleanTweet("text.txt") <br/>
 data.show_special_characters()
 
 You can view the documentation and more samples on https://pypi.org/project/cleantweet/
