@@ -1,7 +1,4 @@
-# SWEETS
-SWEETS is collection of micro-services and tools used to enable researchers better detect Suicidal Tendencies in User's Tweets. 
-
-# cleantweet
+# CleanTweet
 cleantweet is a python library helps in Natural Language Processing tasks especially in the area of preprocessing and cleaning your data fetched from the Twitter API Backend.
 
 ## Installation
