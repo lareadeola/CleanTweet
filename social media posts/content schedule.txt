@@ -1,0 +1,9 @@
+Mondays - practical examples/use cases of using clean tweet
+
+Tuesdays - docs/methods/classes in the clean tweet library
+
+Wednesdays - natural language processing news
+
+Thursdays - trivia on NLP e.g what is a llm, tokens etc
+
+Fridays - project showcase -> once a month other Friday's will be either examples or docs
